@@ -1,1 +1,1 @@
-# Heart-Attack-Prediction
+# Heart_Disease_ML
